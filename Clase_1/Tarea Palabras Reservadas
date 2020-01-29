@@ -1,0 +1,91 @@
+PALABRAS RESERVADAS CSHARP (C#)
+Todo lenguaje estable un conjunto de palabras reservadas que deberán ser tomadas como prohibidas para la declaración de cualquier tipo de dato definido por el programador. Aquí la lista de palabras reservadas en C#.
+
+ 
+abstract	
+enum
+long	
+stackalloc
+as	
+event	
+namespace	
+static
+base	
+explicit
+new	
+string
+bool	
+extern	
+null	
+struct
+break	
+false	
+object
+switch
+byte	
+finally
+operator
+this
+case	
+Fixed	
+out	
+throw
+catch	
+float	
+override
+true
+char
+for	
+params	
+try
+checked	
+foreach	
+private
+typeof
+class
+goto	
+protected
+uint
+const
+if
+public
+ulong
+continue
+implicit
+readonly	
+unchecked
+decimal	
+in	
+ref	
+unsafe
+default
+int	
+return	
+ushort
+delegate
+interface	
+sbyte	
+using
+do	
+internal	
+sealed	
+virtual
+double	is	
+short	
+void
+else
+lock
+sizeof	
+while
+
+ 
+¿QUE ES SOLUTION EN CSHARP? (C#)
+Una solución es un espacio de trabajo que combina múltiples proyectos, que generalmente están relacionados entre sí. La construcción es muy útil en situaciones en las que es necesario compartir algún código entre múltiples proyectos.
+
+Por ejemplo, si está desarrollando un sitio web con un componente separado del lado del servidor, podría segregarlo en varios proyectos relacionados:
+
+Un proyecto que contiene interfaces comunes, produciendo una DLL
+Un proyecto que contiene la definición de la base de datos, produciendo un script de implementación RDBMS
+Un proyecto que contiene la implementación de API del lado del servidor, produciendo un ejecutable
+Un proyecto de sitio web, que produce un script de implementación de IIS
+Estos cuatro proyectos están conectados entre sí. Colocarlos en una única solución le permite acceder a partes individuales, mientras aprovecha la indexación común que Visual Studio hace para simplificar las búsquedas de uso y ayudar con la refactorización.
