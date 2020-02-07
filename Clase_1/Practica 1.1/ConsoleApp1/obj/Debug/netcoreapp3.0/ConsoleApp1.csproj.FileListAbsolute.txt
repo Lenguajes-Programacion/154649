@@ -9,3 +9,14 @@ C:\Users\alumno\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleA
 C:\Users\alumno\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
 C:\Users\alumno\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
 C:\Users\alumno\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\alumno\Desktop\154649\Clase_1\Practica 1.1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
