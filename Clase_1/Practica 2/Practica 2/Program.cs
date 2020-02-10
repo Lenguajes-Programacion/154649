@@ -6,48 +6,63 @@ namespace Practica_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("CALCULADORA MAMADISIMA");
-            int res;
-            int val1;
-            int val2;
+            double res;
+            double val1;
+            double val2;
             string op;
+            string op2;
+            Console.WriteLine("CALCULADORA MAMADISIMA");
 
-            Console.WriteLine("Ingresa numero 1");
-            val1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Ingresa numero 2");
-            val2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Vas a realizar otra operacion (s/n)?");
+            op2 = Console.ReadLine();
 
-            Console.WriteLine("Que operacion vas a realizar?");
-            op = Console.ReadLine();
-
-
-            switch (op)
+            while (op2 == "s")
             {
-                case "+":
-                    res = val1 + val2;
-                    Console.WriteLine("Tu resultado es "+res);
+                Console.Clear();
+                Console.WriteLine("Ingresa numero 1");
+                val1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Ingresa numero 2");
+                val2 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Que operacion vas a realizar?");
+                op = Console.ReadLine();
 
-                    break;
-                case "-":
-                    res = val1 - val2;
-                    Console.WriteLine("Tu resultado es " + res);
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-                    break;
-                case "/":
-                    res = val1 / val2;
-                    Console.WriteLine("Tu resultado es " + res);
 
-                    break;
-                case "*":
-                    res = val1 * val2;
-                    Console.WriteLine("Tu resultado es " + res);
+                switch (op)
+                {
+                    case "+":
+                        res = val1 + val2;
+                        Console.WriteLine("Tu resultado es " + res);
 
-                    break;
-                default:
-                    Console.WriteLine("OPERADOR NO VALIDO");
+                        break;
+                    case "-":
+                        res = val1 - val2;
+                        Console.WriteLine("Tu resultado es " + res);
 
-                    break;
+                        break;
+                    case "/":
+                        res = val1 / val2;
+                        Console.WriteLine("Tu resultado es " + res);
+
+                        break;
+                    case "*":
+                        res = val1 * val2;
+                        Console.WriteLine("Tu resultado es " + res);
+
+                        break;
+                    default:
+                        Console.WriteLine("OPERADOR NO VALIDO");
+
+                        break;
+
+                }
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
+                Console.WriteLine("Vas a realizar otra operacion (s/n)?");
+                op2 = Console.ReadLine();
+
             }
+
+
         }
     }
 }

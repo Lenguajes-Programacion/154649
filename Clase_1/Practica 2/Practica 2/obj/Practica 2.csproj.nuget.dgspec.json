@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alumno\\Desktop\\Practica 2\\Practica 2\\Practica 2.csproj": {}
+    "C:\\Users\\alumno\\Desktop\\154649\\Clase_1\\Practica 2\\Practica 2\\Practica 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alumno\\Desktop\\Practica 2\\Practica 2\\Practica 2.csproj": {
+    "C:\\Users\\alumno\\Desktop\\154649\\Clase_1\\Practica 2\\Practica 2\\Practica 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Practica 2\\Practica 2\\Practica 2.csproj",
+        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\154649\\Clase_1\\Practica 2\\Practica 2\\Practica 2.csproj",
         "projectName": "Practica 2",
-        "projectPath": "C:\\Users\\alumno\\Desktop\\Practica 2\\Practica 2\\Practica 2.csproj",
+        "projectPath": "C:\\Users\\alumno\\Desktop\\154649\\Clase_1\\Practica 2\\Practica 2\\Practica 2.csproj",
         "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumno\\Desktop\\Practica 2\\Practica 2\\obj\\",
+        "outputPath": "C:\\Users\\alumno\\Desktop\\154649\\Clase_1\\Practica 2\\Practica 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
