@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ry5BL0Z0NRl+IzelrSD/b2klIGWUpVyo/9O3oM3l1iDa9/M55pSd/FjPI6frujZ/wrMV9FotBgaXMo4itOchDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zbreck\\Downloads\\154649-master\\154649-master\\Clase_1\\Practica 1.1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zbreck\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Zbreck\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Zbreck\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Zbreck\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
